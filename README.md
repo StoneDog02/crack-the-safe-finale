@@ -1,2 +1,2 @@
-# crack-the-safe-finale
+# crack-the-safe-react
 Created with CodeSandbox
